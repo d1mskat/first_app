@@ -37,7 +37,7 @@ gem 'turbolinks'
 #end
 
 group :production do
-	gem 'pg', '0.12.2'
+	gem 'pg'
 end
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'

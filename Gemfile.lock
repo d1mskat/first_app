@@ -103,7 +103,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
   jquery-rails
-  pg (= 0.12.2)
+  pg
   rails (= 4.0.1)
   sass-rails (~> 4.0.0)
   sqlite3
